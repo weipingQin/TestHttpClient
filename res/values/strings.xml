@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name"					>TestHttpClient</string>
+    <string name="testhttpClient"			>HttpClient测试</string>
+    <string name="host_base_url"		    >http://www.imiaodou.com/server</string>
+    <string name="user_login_url"			>%s/api/user/login</string>
+
+</resources>
